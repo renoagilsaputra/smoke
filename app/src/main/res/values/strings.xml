@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smoke</string>
+    <string name="title">Smoking Test</string>
+
+    <!--    Button -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
